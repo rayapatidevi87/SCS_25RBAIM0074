@@ -92,9 +92,9 @@ This module enables:
 * Usability: User-friendly interface
  System Interfaces
 
-* **User Interface:** Web dashboard & mobile app
-* **Hardware:** Smartphone / Computer
-* **Software:** MySQL Database, AI APIs
+* User Interface: Web dashboard & mobile app
+* Hardware: Smartphone / Computer
+* Software: MySQL Database, AI APIs
  Technologies Used
 
 * Programming Languages: Python / Java
@@ -103,8 +103,8 @@ This module enables:
   * UML Modeling
   * ER Modeling
   * Software Testing Techniques
- Development Process
-
+    
+ Development Process:
 The system follows the **Agile Development Model**:
 
 * Requirement Analysis
@@ -113,13 +113,15 @@ The system follows the **Agile Development Model**:
 * Development
 * Testing
 * Deployment
- Risk Management
+  
+ Risk Management:
 ### Identified Risks:
 * Data security threats
 * AI prediction inaccuracies
 * Server downtime
 * Network issues
 * User input errors
+  
 ### Mitigation Strategies:
 * Data encryption & authentication
 * Model validation and improvement
@@ -160,16 +162,19 @@ The system follows the **Agile Development Model**:
 * Code reviews
 * Testing
 * Debugging
+
  Advantages
 * Reduces manual healthcare processes
 * Provides quick AI-based diagnosis
 * Enhances accessibility for remote users
 * Improves doctor-patient communication
+  
  Future Scope:
 * Integration with wearable health devices
 * Real-time health monitoring
 * Advanced AI models for accurate diagnosis
 * Cloud-based scalability
+
  Conclusion: 
 The AI-Based Smart Healthcare System demonstrates how artificial intelligence can transform healthcare by making it faster, smarter, and more accessible. The system improves efficiency, reduces manual workload, and provides a reliable platform for both patients and healthcare providers.
 Author:
