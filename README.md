@@ -177,5 +177,6 @@ The system follows the **Agile Development Model**:
 
  Conclusion: 
 The AI-Based Smart Healthcare System demonstrates how artificial intelligence can transform healthcare by making it faster, smarter, and more accessible. The system improves efficiency, reduces manual workload, and provides a reliable platform for both patients and healthcare providers.
+
 Author:
 Mini Project –  AI-Based Smart Healthcare System & Sculpting Laboratory
